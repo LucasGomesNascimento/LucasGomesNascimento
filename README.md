@@ -1,6 +1,6 @@
 <h1 align="center">  
   
-  ![Typing SVG]("https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+seja+bem+vindo+ao+meu+GitHUB" alt="Typing SVG" /></a>
+  ![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+seja+bem+vindo+ao+meu+GitHUB"](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1+seja+bem+vindo+ao+meu+GitHUB)
 <h1/>
 
 <div align="center">
