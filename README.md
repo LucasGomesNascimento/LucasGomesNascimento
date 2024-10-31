@@ -6,7 +6,7 @@
 <div align="center">
   <a href="[https://github.com/vitorhso](https://github.com/LucasGomesNascimento)">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vitorhso&show_icons=true&theme=dracula" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorhso&theme=dracula&layout=compact&langs_count=8&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas Gomes &theme=dracula&layout=compact&langs_count=8&card_width=320" />
 </div>
 
   ### 🛠 Linguagens e ferramentas
